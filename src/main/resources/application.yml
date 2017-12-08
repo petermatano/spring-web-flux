@@ -1,4 +1,7 @@
 spring:
+  data:
+    rest:
+      base-path: /api
   datasource:
     url: jdbc:postgresql://db-warranty.localhost.squaretrade.com:5432/warranty?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
     username: admin
