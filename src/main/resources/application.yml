@@ -1,16 +1,4 @@
 spring:
   data:
-    rest:
-      base-path: /api
-  datasource:
-    url:
-    username:
-    password:
-    driver-class-name: org.postgresql.Driver
-
-  jpa:
-    generate-ddl: true
-    show-sql: true
-    hibernate:
-      ddl-auto: create
-    database: postgresql
+    mongodb:
+      uri: mongodb://localhost:27017/purchase
