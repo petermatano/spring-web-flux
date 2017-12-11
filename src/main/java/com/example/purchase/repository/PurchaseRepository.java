@@ -1,6 +1,6 @@
-package com.squaretrade.purchase.repository;
+package com.example.purchase.repository;
 
-import com.squaretrade.purchase.model.Purchase;
+import com.example.purchase.model.Purchase;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

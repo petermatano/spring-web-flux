@@ -1,4 +1,4 @@
-package com.squaretrade.purchase.model;
+package com.example.purchase.model;
 
 import lombok.Getter;
 import lombok.Setter;

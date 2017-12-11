@@ -1,4 +1,4 @@
-package com.squaretrade.purchase.configuration;
+package com.example.purchase.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
